@@ -15,8 +15,8 @@
 
 Adafruit_AMG88xx amg;
 
-const char* ssid = "HUAWEI-ZNJ";
-const char* password = "ZNJketizu666";
+const char* ssid = "WIFI NAME";
+const char* password = "YOUR WIFI PASSWORD";
 
 const int pin_led = 16;
 static const uint8_t pwm_A = 16 ;
